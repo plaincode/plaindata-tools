@@ -1,5 +1,6 @@
 {
     "name": "plaindata-tools",
+    "version": "latest",
     "description": "plaindata tools",
     "main": "./plaindata-tools.js",
 	"repository": {
