@@ -2,7 +2,6 @@
     "name": "plaindata-tools",
     "description": "plaindata tools",
     "main": "./plaindata-tools.js",
-	"version": "1.0",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/plaincode/plaindata-tools.git"
